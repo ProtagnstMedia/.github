@@ -1,12 +1,9 @@
-## Hi there 👋
+## 👋 Hello there! Open Source at Protagnst Media
 
-<!--
+![A minecraft screenshot of a player looking up into a big icy mountain.](https://user-images.githubusercontent.com/80425961/232779718-07df16cd-30bb-4541-92a1-15f19445bdca.png)
 
-**Here are some ideas to get you started:**
+Open source software is at the heart of the projects that Protagnst Media works on, be it from Plugins, Mods and more.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+----
+
+Protagnst Media projects adopt the [Citizen Code of Conduct](https://github.com/ProtagnstMedia/.github/blob/main/profile/CODE_OF_CONDUCT.md).
